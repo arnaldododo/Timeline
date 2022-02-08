@@ -9,3 +9,11 @@ Sumber materi disertakan pada bagian About.
 Kekurangan / Peluang pengembangan:
 1. Konten diisi dengan cara hard-coding
 2. Bisa digunakan untuk konten seperti Sirah Nabawiyah
+
+--------
+
+Font Arabic menggunakan font dari Qurancomplex.gov.sa
+Nama font : KFGQPC Uthman Taha Naskh Regular
+sumber : https://fonts.qurancomplex.gov.sa/download/
+
+Menurut kami, font ini adalah font arab terbaik.
