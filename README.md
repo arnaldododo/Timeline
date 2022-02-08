@@ -12,8 +12,8 @@ Kekurangan / Peluang pengembangan:
 
 --------
 
-Font Arabic menggunakan font dari Qurancomplex.gov.sa
-Nama font : KFGQPC Uthman Taha Naskh Regular
+Font Arabic menggunakan font dari Qurancomplex.<br>
+Nama font : KFGQPC Uthman Taha Naskh Regular.<br>
 sumber : https://fonts.qurancomplex.gov.sa/download/
 
 Menurut kami, font ini adalah font arab terbaik.
